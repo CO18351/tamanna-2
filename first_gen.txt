@@ -1,0 +1,59 @@
+HISTORY   OF  1st GENERATION
+First Generation (1930-1958)
+"I've always been more interested in the Future.
+	-Grace Hopper,Developer of the Mars Series.
+ Research into Generations of Computers,
+ Over the last 60 years computers have developed from a thirty  ton monstrous machine with 19,000 vacuum tubes, 1,500 relays, hundreds and thousands of resistors, capacitors and conductors that consumed almost 200 kilowatts of electrical power into a small metal box that allows any user to surf the internet, listen to music, do business work or play realistic games. This development took five steps, or generations of computers.
+
+ 
+             The first generation was called ENIAC, or Electronic Numeric Integrator and Calculator. The first ENIAC was designed by Mauchly and Eckert in 1946. The aim of the designers was to make the machine as fast as possible by making it as "all-electronic" as possible. It was able to store up to a maximum of twenty 10-digit decimal numbers. Its accumulators combined the functions of an adding machine and storage unit. No central memory unit existed, storage was localized within the functioning units of the computer.
+
+
+             The second generation of computers occured between late 50's and mid 60's. This generation was a huge step further from the ENIAC computers, due to the size and speed of the machines. While the use of transistors allowed radios, TVs and amplifiers it has also allowed computers to become much smaller, faster and less energy draining. The main memory (RAM) reduced from revolving magnetic drums to tiny wire-wrapped magnetic donuts called magnetic core memory. This is what allowed computers to become so much smaller and more efficient. Also, the programming language has evolved from binary 0's and 1's to a more understandable for humans set of commands. One of the examples from the early computers with transistor usage was IBM 1401(9). Besides the size and efficiency advantages, the main advantage of second generation computers was the capability of storing program and programming language.
+Getting into the Computer Business
+Employees at work on Mark I, 1944
+Far from todays computer technology, the first electric computers were very different. First generation computers could take up the space of an entire room, were expensive to run, and generated much heat, often the cause of their own malfunctions. The first computers only carried out mathematical equations. Only one calculation was solved at a time, using punch card and paper tape as input and printouts as output.       
+      
+In 1944 at Harvard University, Howard Aiken and Grace Hopper started work on the MARK computer series in partnership with IBM. Mark I was controlled by pre-punched tape to calculate addition, subtraction, multiplication, and division using previously calculated results. It required about 4 seconds to perform a multiplication problem, and took up the space of a giant room. It as put to use with the war effort.
+
+Aiken was a huge influence on the growing of computer technology. He often spoke about how important they were and showed that it was possible to make a machine that could carry out a series of commands. At Harvard, he founded the world's first full pledged computer science program class. Computer science would have never grown to where it is today if it weren't for this giant leap forward that the Mark I provided.
+
+
+Introduction to Vacuum Tubes
+Standard Vacuum Tube
+The first generation of computer history is generally characterized by the widely used vacuum tubes. A vacuum tube worked similarly to a light bulb and was invented around the same time as a bulb. It made signals stronger; as an amplifier. They acted as switches as well by instigating and stopping the flow of electricity. They also served as magnetic drums for memory. However, these components took up very much space, making the computer very big.  
+        
+This electric current controlling device was first developed through research by Thomas Edison, Eugen Goldstein, Nikola Tesla, and Johann Wilhelm Hittorf. Edison patented his research and discoveries in 1884, but he didnt quite understand the physics or importance. Later in early 20th century, John Ambrose Fleming used a diode tube to detect radio signals, which led to the development of the triode tube. These inventions started further advancement in telephony (technology in transmitters and receivers).
+
+Vacuum Tubes in Use; ENIAC I
+ENIAC I
+The Electrical Numerical Integrator and Calculator (ENIAC I) was developed in 1946 by John Mauchly and John Presper Eckert. Its use of vacuum tubes was more efficient than the mechanical switches of the Mark I. ENIAC was made initially for the American military, for they needed a computer to calculate settings used for weapons under different conditions, in terms of accuracy. 
+
+
+ENIAC contained 17,468 vacuum tubes, took up 1800 square feet of space, weighed 30 tons, and used 160 kilowatts of electricity. It could calculate 5,000 additions, 357 multiplications or 38 divisions in one second. Well lived, its development and research led to improvements of vacuum tubes.
+
+Another Milestone in Computing; UNIVAC I
+UNIVAC used for CBS reporter
+The Universal Automatic Computer (UNIVAC I) was invented in 1951 by the same team who developed ENIAC. Its credited as the worlds first commercially available computer. It performed much faster than the ENIAC and processed each digit serially. It was advertised strongly on its input/output capabilities, and was delivered by the census bureau.
+
+The Mauchly- Eckert Computer Corporation faced much competition with IBMs general purpose computers, but for a brief time, the UNIVAC was a market success. 
+
+What defines generation 1?
+Characteristics of generation 1:
+	Use of Vacuum Tubes
+	Very Large
+	Quite Costly
+	Large in Space
+	Fairly Unreliable
+	Highly Electricity Consuming
+	Slower Performance
+	Punch Cards/ Printouts
+
+Some computers of the first generation include:
+
+	ENIAC
+	UNIVAC
+	IBM 701
+	IBM 65
+
+
